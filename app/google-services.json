@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882417522294",
+    "project_id": "hosteloo2",
+    "storage_bucket": "hosteloo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882417522294:android:a75e42096bf02e81e2f157",
+        "android_client_info": {
+          "package_name": "com.iitdh.sonusourav.instigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882417522294-i5eblmg0uem4r19390e9sub4rn0g0def.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iitdh.sonusourav.instigo",
+            "certificate_hash": "48172ee80e5941b7dfe7d02d75bcac9d55905a07"
+          }
+        },
+        {
+          "client_id": "882417522294-neoss2ph0ue7p8044cpqfe4153e7beob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6S8eaUYQWPgN8i_moV-Wxje-k3lg5Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882417522294-neoss2ph0ue7p8044cpqfe4153e7beob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

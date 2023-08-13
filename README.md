@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/47269634/55819333-2a623c80-5b16-11e9-9e68-7383086d8b80.png" align =right height='150'>
 
 
-[![Issues](https://img.shields.io/github/issues-raw/oss2019/instigo-android.svg?color=red)](https://github.com/oss2019/instigo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/instigo-android.svg?color=yellow)](https://github.com/oss2019/instigo-android/pulls) [![License](https://img.shields.io/github/license/oss2019/instigo-android.svg?logoColor=red)](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/instigo-android)
+[![Issues](https://img.shields.io/github/issues-raw/oss2019/Hosteloo-android.svg?color=red)](https://github.com/oss2019/Hosteloo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/Hosteloo-android.svg?color=yellow)](https://github.com/oss2019/Hosteloo-android/pulls) [![License](https://img.shields.io/github/license/oss2019/Hosteloo-android.svg?logoColor=red)](https://github.com/oss2019/Hosteloo-android/blob/master/LICENSE.md) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/Hosteloo-android)
 
 
-# InstiGo-Android
-InstiGo is an android app for the students and faculties of IIT Dharwad that provide a one stop solution for matters related to mess, academia and hostel. 
+# Hosteloo-Android
+Hosteloo is an android app for the students and faculties 
 
-![InstiGo_cover](https://user-images.githubusercontent.com/34706326/82624729-eab6c100-9c00-11ea-80eb-1ab052f4592c.jpg)
+![Hosteloo_cover](https://user-images.githubusercontent.com/34706326/82624729-eab6c100-9c00-11ea-80eb-1ab052f4592c.jpg)
 
-## InstiGo apk
+## Hosteloo apk
 [![button](https://user-images.githubusercontent.com/34706326/57187663-142a7f00-6f10-11e9-9d89-144e9f46e8f3.jpg)](https://drive.google.com/drive/folders/186EfacIxiywjDOTjxS0nG5ktbw2RuX66?usp=sharing)
 ## Libraries Used
 
@@ -26,8 +26,8 @@ After cloning the project, you need to replace the existing Firebase json file w
 2. Click on **New Project**. A dialog box opens up. Give a suitable name and click on **Create Project**.
 3. In the new window, where you have to select the platform in which you want to add Firebase, select *Android*.
 4. Register app window opens. Fill the details.  
-  **Package Name :** *com.iitdh.sonusourav.instigo*    
-  **App Nickname :** *InstiGo*   
+  **Package Name :** *com.iitdh.sonusourav.Hosteloo*    
+  **App Nickname :** *Hosteloo*   
   **Debug Signing Certificate SHA-1 :** Add your own SHA-1 key. Follow the steps if you don't know how to do so.   
   
 ![SHA-1 Key](https://user-images.githubusercontent.com/34706326/59098277-76c2d080-893d-11e9-8678-63fe5d30dfb6.JPG)   
@@ -69,15 +69,15 @@ After cloning the project, you need to replace the existing Firebase json file w
 
 ## Contributing
 
-Before contributing be sure to check out the [CONTRIBUTION GUIDELINES](https://github.com/oss2019/instigo-android/blob/master/Contribution-Guidelines.md) guidelines.
+Before contributing be sure to check out the [CONTRIBUTION GUIDELINES](https://github.com/oss2019/Hosteloo-android/blob/master/Contribution-Guidelines.md) guidelines.
 
 We currently have a series of automated Unit and Integration tests. These can be run locally and are also run when submitting a pull request.
 
 ## Code Style
-For contributions please read the [CODESTYLE](https://github.com/oss2019/instigo-android/blob/master/Code-Style.md) carefully. Pull requests that do not match the style will be rejected.
+For contributions please read the [CODESTYLE](https://github.com/oss2019/Hosteloo-android/blob/master/Code-Style.md) carefully. Pull requests that do not match the style will be rejected.
 
 ## Commit Style
-For writing commit messages please read the [COMMITSTYLE](https://github.com/oss2019/instigo-android/blob/master/Commit-Style.md) carefully. Kindly adhere to the guidelines. Pull requests not matching the style will be rejected.  
+For writing commit messages please read the [COMMITSTYLE](https://github.com/oss2019/Hosteloo-android/blob/master/Commit-Style.md) carefully. Kindly adhere to the guidelines. Pull requests not matching the style will be rejected.  
 
 ## Communication
 
@@ -89,4 +89,4 @@ For more information, please refer to [My personal Website](https://sonusourav.g
 
 ## LEGAL & DISCLAIMER
 
-Please refer to [LICENSE](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md).   
+Please refer to [LICENSE](https://github.com/oss2019/Hosteloo-android/blob/master/LICENSE.md).   
